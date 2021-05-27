@@ -12,4 +12,4 @@ uses
     Crt, {Cthreads,} Sysutils, Math, Ptcgraph;
 ```
 
-Если в не компилируется код под линукс дистрибутив, нужно найти и собрать библиотеку libXxf86dga (я качал отсюда: https://www.paldo.org/index.php?section=packages&page=main&releaseid=24657).
+Если не компилируется код под линукс дистрибутив, нужно найти и собрать библиотеку libXxf86dga (я качал отсюда: https://www.paldo.org/index.php?section=packages&page=main&releaseid=24657).
